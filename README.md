@@ -10,7 +10,11 @@
 ![Build with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 [![App Store](https://img.shields.io/badge/App%20Store-Download-blue)](https://apps.apple.com/app/diabetic-dish/id6686405830)
 
-## 🔹 Description
+<p align="center"><picture>
+  <img alt="logo" src="logoDiabeticDish.png" width="300">
+</picture></p>
+
+## Description
 Diabetic Dish is an app designed for people with diabetes, helping them cook safe and healthy meals. It offers a variety of recipes specifically tailored for a diabetic diet and allows users to save their favorite recipes in a personal collection.
 
 Key Features:
@@ -25,10 +29,10 @@ Key Features:
 
 Diabetic Dish is your reliable kitchen assistant, supporting healthy eating and helping you manage your health with ease.
 
-## 📥 Download app
+## Download app
 [![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/app/diabetic-dish/id6686405830)
 
-## 📌 Changelog
+## Changelog
 ### v2.2.5
 - Now, in the articles, you can go to the source of the article.
 - bug fix
