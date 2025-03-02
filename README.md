@@ -38,4 +38,4 @@ Diabetic Dish is your reliable kitchen assistant, supporting healthy eating and 
 - bug fix
 
 ## 🔗 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/andrej-f-b07092296)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/andrej-f-b07092296)
