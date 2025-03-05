@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/Version-2.2.5-yellow)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue)
-![Swift](https://img.shields.io/badge/Swift-5.9-orange)
+![Swift](https://img.shields.io/badge/Swift-6-orange)
 ![iOS](https://img.shields.io/badge/iOS-Available-green)
 ![Firestore](https://img.shields.io/badge/Firestore-Database-red)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
